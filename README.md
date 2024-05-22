@@ -28,10 +28,12 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grnyoel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub統計"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=grnyoel&theme=tokyonight&locale=ja&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grnyoel&theme=tokyonight&hide_border=false" alt="GitHub連続記録"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grnyoel&theme=tokyonight&locale=ja&hide_border=false" alt="GitHub連続記録"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnyoel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="使用言語"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnyoel&theme=tokyonight&locale=ja&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="使用言語"/>
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes"/>
 </div>
 
