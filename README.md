@@ -11,21 +11,21 @@
   </a>
 </div>
 
-<h2 align="center">
+<h1 align="center">
   Hi, I'm Gerent.
-</h2>
+</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDgzc3dnZjJzbjkxYjd5d2Fwa3VlMHhhdTV0Y2J1d3Z6ancyMm5oMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cruO3FTeoAxjiTVxPW/giphy.gif" width="600" height="300"/>
 </div>
 
-<h2 align="center">
-  I'm a Beginner Rill
-</h2>
-
 <h1 align="center">
-  Stats
+  I'm a Beginner Rill
 </h1>
+
+<h2 align="center">
+  Stats
+</h2>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
