@@ -1,4 +1,4 @@
-Hi, I'm Gerent and I'm a beginner.<br>rill cuy
+### :Hi, I'm Gerent and I'm a beginner.<br>rill cuy
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/grnyoel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grnyoel) 
