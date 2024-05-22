@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHR0bDJpbXc4d2I3dGZ6dzJ1Ynd4amVmd2FzYnFyd3E5dzBxNHl6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://linkedin.com/in/grnyoel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -22,5 +22,5 @@
 ### I'm a Beginner Rilll
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grnyoel&theme=tokyonight&locale=ja)](https://git.io/streak-stats) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=grnyoel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=grnyoel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
