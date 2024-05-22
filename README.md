@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/grnyoel">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-bagde&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
@@ -22,5 +22,5 @@
 ### I'm a Beginner Rilll
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grnyoel&theme=tokyonight&locale=ja)](https://git.io/streak-stats) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=grnyoel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=grnyoel&theme=tokyonight&locale=ja&tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
