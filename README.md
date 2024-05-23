@@ -20,7 +20,7 @@
 </div>
 
 <h2 align="center">
-  I'm a Beginner Rill
+  I'm a Beginner, Rill Jek
 </h2>
 
 <h2 align="center">
