@@ -26,11 +26,11 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grnyoel&theme=tokyonight&locale=ja&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=grnyoel&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&locale=ja" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnyoel&theme=tokyonight&locale=ja&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnyoel&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&locale=ja" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grnyoel&theme=tokyonight&locale=ja&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grnyoel&theme=tokyonight&hide_border=true&locale=ja" alt="GitHub Streak"/>
   <br/>
 
   <h2>Quote 🐐</h2>
