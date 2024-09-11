@@ -2,13 +2,7 @@
 
 ###
 
-<p align="center">Hello World!</p>
-
-###
-
-<div align="center">
-  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem85MmR0eXR0MzNtdXA5eXV0Nm9tODYwNHM1OXFuY21nZ2FsZG5qcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif"  />
-</div>
+<h3 align="center">Hello World!</h3>
 
 ###
 
